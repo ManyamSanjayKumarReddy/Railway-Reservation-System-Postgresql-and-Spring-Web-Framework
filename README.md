@@ -8,6 +8,7 @@ This Repo Consists of the Mini Project Part 2 which is of Railway Reseravtion Sy
 # Link for the Part 1 and 2 Of this Mini Project : 
 
 Part 1 -- https://github.com/ManyamSanjayKumarReddy/Railway-Reservation-System-Console-Level
+<br>
 Part 2 -- https://github.com/ManyamSanjayKumarReddy/Railway-Reservation-System-Postgresql
 
 
@@ -16,7 +17,7 @@ Part 2 -- https://github.com/ManyamSanjayKumarReddy/Railway-Reservation-System-P
 Clone the project and Run
 
 ```bash
-  git clone https://github.com/ManyamSanjayKumarReddy/Railway-Reservation-System-Postgresql.git
+  git clone https://github.com/ManyamSanjayKumarReddy/Railway-Reservation-System-Postgresql-and-Spring-Web-Framework.git
 ```
 
 
